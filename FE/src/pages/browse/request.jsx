@@ -2,7 +2,7 @@
 
 // const BASE_URL = "https://api.themoviedb.org/3";
 
-const BASE_URL_BE = "http://localhost:5000/api/movies";
+const BASE_URL_BE = "https://themoviefullstack.onrender.com/api/movies";
 
 const TOKEN_USER = "8qlOkxz4wq";
 
